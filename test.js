@@ -18,6 +18,7 @@ server.stdout.on('data', (data) => {
 //   console.error(`server stderr: ${data}`);
 // });
 
-server.on('close', (code) => {
+server.on('close', (code) => {dasdadd
   console.log(`server process exited with code ${code}`);
 });
+asdknplads[osdj[osmsFSsD
