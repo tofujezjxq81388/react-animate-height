@@ -11,7 +11,7 @@ server.stdout.on('data', (data) => {
     console.log(`cypress process exited with code ${code}`);
     server.exitCode = 0;
     server.kill('SIGINT');
-  });
+  });asdfasasasfasfasfasfasf
 });
 
 // server.stderr.on('data', (data) => {
